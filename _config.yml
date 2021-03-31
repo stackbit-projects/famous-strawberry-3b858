@@ -11,7 +11,7 @@ header:
   tagline: Header Tagline
   profile_img: images/Dark blue logo.png
   profile_img_alt: Author avatar
-  background: dark
+  background: light
   has_nav: true
   nav_links:
     - label: Home
