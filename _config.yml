@@ -66,3 +66,4 @@ exclude:
   - stackbit-build.sh
   - stackbit-pull.js
 domain: 'https://famous-strawberry-3b858.netlify.app'
+favicon: images/ultra-mahogany.png
